@@ -1,0 +1,16 @@
+Word Count Results
+Total words in IF.txt: 292
+Total words in AlwaysRememberUsThisWay.txt: 223
+Grand total (both files): 515
+
+Top 3 words in IF.txt:
+  1. and : 19 times
+  2. you : 18 times
+  3. if : 14 times
+
+Top 3 words in AlwaysRememberUsThisWay.txt (contractions expanded):
+  1. i : 15 times
+  2. the : 13 times
+  3. and : 8 times
+
+IP Address of container: 172.17.0.2

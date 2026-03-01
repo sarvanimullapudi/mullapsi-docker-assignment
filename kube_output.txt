@@ -1,0 +1,3 @@
+NAME                                   READY   STATUS      RESTARTS      AGE
+mullapsi-deployment-6d7c9cbdcc-897g7   0/1     Completed   3 (31s ago)   48s
+mullapsi-deployment-6d7c9cbdcc-zdcqc   0/1     Completed   3 (32s ago)   48s
